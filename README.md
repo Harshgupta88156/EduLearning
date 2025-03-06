@@ -1,4 +1,4 @@
-# 🎓 eduLearning (https://team-edu.web.app)
+# 🎓 EduLearning (Learning Management System)
 
 ![eduLearning](https://img.shields.io/badge/LMS-Django%20%7C%20React-blue.svg) 
 ![GitHub license](https://img.shields.io/github/license/MeetDOD/Learning-Management-System-LMS-Frontend-)  
