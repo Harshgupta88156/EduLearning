@@ -1,7 +1,5 @@
 # 🎓 EduLearning (Learning Management System)
 
-![eduLearning](https://img.shields.io/badge/LMS-Django%20%7C%20React-blue.svg) 
-![GitHub license](https://img.shields.io/github/license/MeetDOD/Learning-Management-System-LMS-Frontend-)  
 
 A feature-rich **Learning Management System (LMS)** built with **Django REST Framework** and **React.js**, designed as a **Udemy-like platform**. Students can come and Enroll in various courses of their wish with wide range of Domains. Students **Admin Panel**, Teachers Admin Panel, Website Admin Panel, **Student Testimonials**, Various Categories and other functionality included.
 
@@ -35,17 +33,13 @@ A feature-rich **Learning Management System (LMS)** built with **Django REST Fra
 
 ```bash
 # Clone the repository
-for frontend
-git clone https://github.com/MeetDOD/Learning-Management-System-LMS-Frontend-.git
-
-for backend
-git clone https://github.com/MeetDOD/Learning-Management-System-LMS-Backend.git
+git clone https://github.com/Harshgupta88156/EduLearning.git
 
 # Navigate to the backend folder
 
 # Create a virtual environment
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+source venv/bin/activate  
 
 # Install dependencies
 pip install -r requirements.txt
@@ -67,16 +61,3 @@ npm start
 
 ---
 
-## 🎥 Screenshots
-
-![image](https://github.com/user-attachments/assets/b6682ed2-2a2a-4a75-b243-a7e9061e4709)
-
-![image](https://github.com/user-attachments/assets/9e861510-af18-42f4-a5e4-75e65978aa8d)
-
-![image](https://github.com/user-attachments/assets/34a9874e-09ea-49bf-a7dd-529499888133)
-
----
-
-## 📜 License
-
-**This project is MIT Licensed.**
